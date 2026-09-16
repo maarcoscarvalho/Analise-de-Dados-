@@ -21,7 +21,7 @@ Este repositório reúne scripts e rotinas dedicados ao ciclo completo de **Aná
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Python 3.x**
+* **Python 3.14
 * **Pandas**: Manipulação, limpeza e agregação de dados.
 * **NumPy**: Operações estatísticas e computação numérica.
 * **Matplotlib / Seaborn**: Criação de gráficos e visualização de dados.
